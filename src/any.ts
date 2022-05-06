@@ -1,6 +1,5 @@
 export {};
 
-
 import axios from 'axios';
 
 let url: string = 'https://udemy-utils.herokuapp.com/api/v1/articles?token=token123';
